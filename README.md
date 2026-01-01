@@ -1,2 +1,4 @@
 # Practicing-Cleaning-Data
-I took a dirty data file, checked the missing values, duplicates, inconsistencies, and made it clean. By doing so, I learned how to clean and save the cleaned file. 
+This project demonstrates basic data cleaning using Python (pandas).
+Steps include removing inconsistencies in gender and marital status,
+standardizing categorical variables, and exporting a clean dataset.
